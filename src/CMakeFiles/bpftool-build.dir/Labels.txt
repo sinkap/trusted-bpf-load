@@ -1,0 +1,11 @@
+# Target labels
+ bpftool
+# Source files and their labels
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/bpftool-build
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/bpftool-build.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-build.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-configure.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-patch.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-update.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-download.rule
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/bpftool/src/bpftool-stamp/bpftool-mkdir.rule

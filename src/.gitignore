@@ -1,0 +1,6 @@
+/.output
+/profile
+/cmake-build-debug/
+/cmake-build-release/
+bpftool
+CMakeCache.txt

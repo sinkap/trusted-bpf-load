@@ -1,0 +1,8 @@
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/libbpf.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/libbpf-build.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/bpftool.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/bpftool-build.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/policy.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/load_signature.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/edit_cache.dir
+/usr/local/google/home/kpsingh/projects/trusted-bpf-load/src/CMakeFiles/rebuild_cache.dir
